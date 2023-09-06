@@ -284,9 +284,9 @@ To reduce the chance of this happening, you can reduce the number of HTTP calls 
 
 ## Additional Documentation
 
-See [Storing workflow data as artifacts](https://docs.github.com/en/actions/advanced-guides/storing-workflow-data-as-artifacts) for additional examples and tips.
+See [Storing workflow data as artifacts](https://github.com/actions/toolkit/blob/main/packages/artifact/README.md) for additional examples and tips.
 
-See extra documentation for the [@actions/artifact](https://github.com/actions/toolkit/blob/main/packages/artifact/docs/additional-information.md) package that is used internally regarding certain behaviors and limitations.
+See extra documentation for the [@actions/artifact](https://github.com/actions/toolkit/tree/main/packages/artifact) package that is used internally regarding certain behaviors and limitations.
 
 # License
 
